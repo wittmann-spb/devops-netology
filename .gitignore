@@ -1,4 +1,4 @@
-# Local .terraform directories
+# Local .terraform directories added gitignore
 **/.terraform/*
 
 # .tfstate files
