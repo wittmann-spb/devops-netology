@@ -114,3 +114,7 @@ git show 5ac311e2a - создана
 автор:
 
 Martin Atkins mart@degeneration.co.uk
+
+# Домашнее задание к занятию "3.1. Работа в терминале, лекция 1"
+
+https://github.com/wittmann-spb/devops-netology/edit/main/hw3-1.md
