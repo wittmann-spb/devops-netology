@@ -26,3 +26,6 @@ https://github.com/wittmann-spb/devops-netology/blob/main/hw3-2.md
 
 https://github.com/wittmann-spb/devops-netology/blob/main/hw3-3.md
 
+# Домашнее задание к занятию "3.4. Операционные системы, лекция 2"
+
+https://github.com/wittmann-spb/devops-netology/blob/main/hw3-4.md
