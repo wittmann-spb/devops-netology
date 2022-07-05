@@ -119,3 +119,6 @@ Martin Atkins mart@degeneration.co.uk
 
 https://github.com/wittmann-spb/devops-netology/blob/main/hw3-1.md
 
+# Домашнее задание к занятию "3.2. Работа в терминале, лекция 2"
+
+https://github.com/wittmann-spb/devops-netology/blob/main/hw3-2.md
