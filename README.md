@@ -45,3 +45,7 @@ https://github.com/wittmann-spb/devops-netology/blob/main/hw3-7.md
 # Домашнее задание к занятию "3.8. Компьютерные сети, Лекция 3"
 
 https://github.com/wittmann-spb/devops-netology/blob/main/hw3-8.md
+
+# Домашнее задание к занятию "3.9. Элементы безопасности информационных систем"
+
+https://github.com/wittmann-spb/devops-netology/blob/main/hw3-9.md
