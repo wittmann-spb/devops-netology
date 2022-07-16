@@ -42,3 +42,6 @@ https://github.com/wittmann-spb/devops-netology/blob/main/hw3-6.md
 
 https://github.com/wittmann-spb/devops-netology/blob/main/hw3-7.md
 
+# Домашнее задание к занятию "3.8. Компьютерные сети, Лекция 3"
+
+https://github.com/wittmann-spb/devops-netology/blob/main/hw3-8.md
