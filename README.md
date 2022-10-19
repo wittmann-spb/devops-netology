@@ -49,3 +49,8 @@ https://github.com/wittmann-spb/devops-netology/blob/main/hw3-8.md
 # Домашнее задание к занятию "3.9. Элементы безопасности информационных систем"
 
 https://github.com/wittmann-spb/devops-netology/blob/main/hw3-9.md
+
+# Домашнее задание к занятию "5.2. Применение принципов IaaC в работе с виртуальными машинами"
+
+https://github.com/wittmann-spb/devops-netology/blob/main/hw5-2.md
+
